@@ -1,0 +1,8 @@
+2025-10-22 15:27:01 INFO Starting process
+2025-10-22 15:27:02 ERROR Failed to connect to database
+2025-10-22 15:27:03 INFO Retrying connection
+2025-10-22 15:27:04 WARN Connection slow
+2025-10-22 15:27:05 INFO Connected to database
+2025-10-22 15:27:06 INFO Processing data
+2025-10-22 15:27:07 ERROR Data format invalid
+2025-10-22 15:27:08 INFO Process completed
