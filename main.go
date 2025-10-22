@@ -100,7 +100,7 @@ func main() {
 	}
 	for i := 0; i < *topN && i < len(sorted); i++ {
 		barLen := sorted[i].Value * maxBar / maxFreq
-		bar := strings.Repeat("#", barLen)
+		bar := strings.Repeat("❤︎ ", barLen)
 		fmt.Printf("%-15s | %-5d %s\n", sorted[i].Key, sorted[i].Value, bar)
 	}
 }
